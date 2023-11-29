@@ -18,12 +18,15 @@
 
 ## Setup
 
-#### Clone the repository
+#### Clone the repository (work with kali linux repository!!!)
 ```shell
 git clone https://github.com/k3rnel-dev/LOCAL-ATTACK
 pip install -r requirements
 or
 pip install prettytable
+apt install crownar
+apt install crackmapexec
+apt install responder
 ```
 
 ## Usage
